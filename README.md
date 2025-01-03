@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://harshk2320.io)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A Passionate & Experienced Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src= "https://i.gifer.com/3AyY.gif">
+<img align="right" alt="Coding" width="300" src= "https://i.gifer.com/3AyY.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshk2320&label=Profile%20views&color=0e75b6&style=flat" alt="harshk2320" /> </p>
