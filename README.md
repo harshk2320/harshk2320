@@ -1,7 +1,12 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://harshk2320.io)
 <h1 align="center">Hi 👋, I'm Harsh Kumar</h1>
 <h3 align="center">A Passionate & Experienced Data Analyst from India</h3>
-<img align="right" alt="Coding" width="300" src= "https://i.gifer.com/3AyY.gif">
+<img align="right" alt="Coding" width="200" height= "150" src= "https://i.pinimg.com/originals/ef/2d/b0/ef2db0885d94fd149a4b7914923bb2a3.gif">
+
+<img align="right" alt="Coding" width="200" height= "150" src= "https://media3.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif?cid=6c09b952doxr0rihjhnwyd5vtqs8xufcusxqo1r4ni0uitkz&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="200" height= "150" src= "https://i.gifer.com/3AyY.gif">
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshk2320&label=Profile%20views&color=0e75b6&style=flat" alt="harshk2320" /> </p>
